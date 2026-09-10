@@ -40,11 +40,11 @@ La aplicación cuenta con validaciones para los valores ingresados y una interfa
 ```bash
 ConversorTemperaturas/
 │
-├── src/
+├── src/Grados/
 │   └── Ventana.java
 │   └── Principal.java
 │
-├── images/
+├── img/
 │   ├── ventana-principal.png
 │
 ├── .gitignore
