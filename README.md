@@ -46,9 +46,6 @@ ConversorTemperaturas/
 │
 ├── images/
 │   ├── ventana-principal.png
-│   ├── celsius-fahrenheit.png
-│   ├── fahrenheit-celsius.png
-│   └── validacion.png
 │
 ├── .gitignore
 └── README.md
