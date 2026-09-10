@@ -33,7 +33,7 @@ La aplicación cuenta con validaciones para los valores ingresados y una interfa
   °C = (°F - 32) / 1.8
 
 ## 🛠️ Tecnologías utilizadas
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
 - Java Swing
 
 ## 📂 Estructura del proyecto
